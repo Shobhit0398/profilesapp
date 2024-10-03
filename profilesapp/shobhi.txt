@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 shobhi is a baddie
 10 / 10 baddie 
+=======
+>>>>>>> parent of 79b4be9 (new)
